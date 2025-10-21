@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+mysql-connector-python
+folium
+streamlit-folium
+branca
+python-dotenv
